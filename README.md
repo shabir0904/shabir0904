@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shabir0904
+- 👋 Hi, I’m @shabir
 - 👀 I’m interested in Digital Chip design and prototype FPGA development
 - 🌱 I’m currently learning Accelerator design for Machine Learning
 - 💞️ I’m looking to collaborate on ML processor design
