@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shabir
 - 👀 I’m interested in Digital Chip design and prototype FPGA development
-- 🌱 I’m currently learning Accelerator design for Machine Learning
-- 💞️ I’m looking to collaborate on ML processor design
+- 🌱 I’m currently working on CPU architecture modeling and performance analysis
+- 💞️ I’m also interested in Tensor computation on Hardware
 - 📫 How to reach me email: shabi0904@gmail.com
 
 <!---
